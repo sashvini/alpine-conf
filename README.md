@@ -12,7 +12,7 @@ This repo contains a set of utilities for making backup of config files and for 
   * To create a package as specified in lbu.conf, `lbu commit`
   * To override destination of the backup package, `lbu package /path/to/bar.apkovl.tar.gz`
 
-# Setup scripts
+# Setup script
 
 The main script is called `setup-alpine`, and it will perform basic system setup. Each script can be called independently, for example:
 
